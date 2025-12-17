@@ -19,16 +19,26 @@ I enjoy solving real-world problems through clean code, modern technologies, and
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages                               ### 🌐 Web & Frameworks
-- HTML5, CSS3                                   - Python
-- Spring Boot                                   - Java
-- REST APIs                                     - JavaScript
-- Bootstrap                                     - SQL
+### 💡 Languages                               
+- HTML5, CSS3                                   
+- Spring Boot                                   
+- REST APIs                                     
+- Bootstrap                                      
 
-### 🧠 AI & ML                                 ### 🗄️ Databases
-- Machine Learning Basics                       - MySQL
-- Data Analysis                                 - PostgreSQL
+### 🌐 Web & Frameworks
+- Python
+- Java
+- JavaScript
+- SQL
+  
+### 🧠 AI & ML                                
+- Machine Learning Basics                       
+- Data Analysis                                 
 - Model Training & Evaluation
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
