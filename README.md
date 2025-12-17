@@ -44,15 +44,14 @@ I enjoy solving real-world problems through clean code, modern technologies, and
 - Git & GitHub
 - VS Code
 - IntelliJ IDEA
-- Postman
 - Docker (Basics)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn profile link*
-- 📧 Email: *Add your email (optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/vrushita/
+- 📧 Email: vrushita2030@gmail.com
 
 ---
 
