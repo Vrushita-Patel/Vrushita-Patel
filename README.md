@@ -65,22 +65,47 @@ I'm a dedicated IT professional passionate about building **efficient, scalable,
 
 ## 📌 Featured Projects
 
-- **[Demo Portfolio](https://github.com/Vrushita-Patel/project)** — Personal portfolio website with a responsive layout built using HTML, CSS, and JavaScript.
-- **[GitHub Clone](https://github.com/Vrushita-Patel/project)** — Front-end recreation of the GitHub UI, built to practice replicating a complex, real-world interface.
-- **[Calculator](https://github.com/Vrushita-Patel/project)** — A functional calculator app supporting standard arithmetic operations.
+### 🖥️ Demo Portfolio
+Personal portfolio website with a fully responsive layout, built from scratch.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Vrushita-Patel/project)**
+
+<!-- Add a real screenshot here: drag an image into GitHub's README editor, it auto-generates a URL you can paste in -->
 
 ---
 
-## 📊 GitHub Stats
+### 🐙 GitHub Clone
+Front-end recreation of the GitHub interface — built to practice replicating a complex, real-world UI pixel-for-pixel.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Vrushita-Patel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Vrushita-Patel&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Streak" width="48%"/>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Vrushita-Patel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+**[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Vrushita-Patel/project)**
+
+---
+
+### 🧮 Calculator
+A functional calculator app supporting standard arithmetic operations with a clean, minimal UI.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Vrushita-Patel/project)**
+
+---
+
+## 🎯 Highlights
+
+- 🧩 Built and shipped **3+ front-end projects** independently, from design to deployment
+- ⚡ Comfortable across the stack: **Python & Java backends**, HTML/CSS/JS front ends
+- 🎓 Actively upskilling in **AI/ML** — applying it to real, hands-on projects
+- 🤝 Known for writing **clean, well-documented code** that's easy for teams to pick up
 
 ---
 
