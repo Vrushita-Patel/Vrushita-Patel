@@ -11,6 +11,9 @@
   <a href="mailto:vrushita2030@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/Vrushita-Patel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -60,15 +63,25 @@ I'm a dedicated IT professional passionate about building **efficient, scalable,
 
 ---
 
+## 📌 Featured Projects
+
+> Replace these with your best 2–3 repos — recruiters and clients look here first.
+
+- **[Project Name](https://github.com/Vrushita-Patel/project)** — one-line description of what it does and the problem it solves.
+- **[Project Name](#)** — one-line description.
+- **[Project Name](#)** — one-line description.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrushita&show_icons=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushita&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vrushita-Patel&show_icons=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Vrushita-Patel&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrushita-Patel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
@@ -90,6 +103,7 @@ I'm always open to exciting opportunities, collaborations, and conversations abo
 
 - 💼 **LinkedIn:** [linkedin.com/in/vrushita](https://www.linkedin.com/in/vrushita/)
 - 📧 **Email:** [vrushita2030@gmail.com](mailto:vrushita2030@gmail.com)
+- 🐙 **GitHub:** [github.com/Vrushita-Patel](https://github.com/Vrushita-Patel)
 
 ---
 
