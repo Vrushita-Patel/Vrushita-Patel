@@ -74,12 +74,12 @@ I'm a dedicated IT professional passionate about building **efficient, scalable,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrushita-Patel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Vrushita-Patel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=Vrushita-Patel&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrushita-Patel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Vrushita-Patel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
