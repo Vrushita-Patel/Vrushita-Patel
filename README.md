@@ -65,18 +65,16 @@ I'm a dedicated IT professional passionate about building **efficient, scalable,
 
 ## 📌 Featured Projects
 
-> Replace these with your best 2–3 repos — recruiters and clients look here first.
-
-- **[Project Name](https://github.com/Vrushita-Patel/project)** — one-line description of what it does and the problem it solves.
-- **[Project Name](#)** — one-line description.
-- **[Project Name](#)** — one-line description.
+- **[Demo Portfolio](https://github.com/Vrushita-Patel/project)** — Personal portfolio website with a responsive layout built using HTML, CSS, and JavaScript.
+- **[GitHub Clone](https://github.com/Vrushita-Patel/project)** — Front-end recreation of the GitHub UI, built to practice replicating a complex, real-world interface.
+- **[Calculator](https://github.com/Vrushita-Patel/project)** — A functional calculator app supporting standard arithmetic operations.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrushita-Patel&show_icons=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vrushita-Patel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=Vrushita-Patel&theme=tokyonight&hide_border=true" alt="Vrushita's GitHub Streak" width="48%"/>
 </p>
 
